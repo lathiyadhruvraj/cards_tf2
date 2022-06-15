@@ -1,4 +1,4 @@
-# Object Detection of  Plating cards
+# Object Detection of  Playing cards
 
 ## Playing Cards Dataset
 Total Classes - 6
